@@ -78,6 +78,7 @@ brew install tcptrace
 brew install ucspi-tcp # `tcpserver` etc.
 brew install xpdf
 brew install xz
+brew install zsh
 
 # Install other useful binaries.
 brew install ack
@@ -100,6 +101,32 @@ brew install tree
 brew install vbindiff
 brew install webkit2png
 brew install zopfli
+
+# install cask
+brew install caskroom/cask/brew-cask
+brew tap caskroom/versions
+
+# Install useful casks.
+brew cask install alfred
+brew cask install caffeine
+brew cask install cheatsheet
+brew cask install cleanmymac
+brew cask install dash
+brew cask install dropbox
+brew cask install firefox
+brew cask install flux
+brew cask install google-chrome
+brew cask install imagealpha
+brew cask install imageoptim
+brew cask install hyper
+brew cask install macdown
+brew cask install opera
+brew cask install shades
+brew cask install slack
+brew cask install spectacle
+brew cask install spotify
+brew cask install visual-studio-code
+brew cask install virtualbox
 
 # Remove outdated versions from the cellar.
 brew cleanup

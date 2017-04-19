@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Solarized Dark",
+    "editor.fontFamily": "'Operator Mono', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 13,
+    "files.autoSave": "onFocusChange",
+    "workbench.iconTheme": "vscode-icons"
+}
